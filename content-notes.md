@@ -19,6 +19,7 @@ These are all, as instructed, visual criteria... so each criterion will obviousl
 Name: Seth Traeder
 
 Computer Science student at UM-Flint
+Contact: etraeder@umich.edu
 
 Focus in application and game development
 
