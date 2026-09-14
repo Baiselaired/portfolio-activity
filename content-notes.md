@@ -17,9 +17,10 @@ These are all, as instructed, visual criteria... so each criterion will obviousl
 
 
 Name: Seth Traeder
-
+Birthday: September 17, 2005
 Computer Science student at UM-Flint
-Contact: etraeder@umich.edu
+Contact: etraeder@umich.edu (leave phone blank)
+Local to Flint, Michigan, no further info
 
 Focus in application and game development
 
