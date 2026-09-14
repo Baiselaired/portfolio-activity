@@ -557,6 +557,24 @@ main {
 
 
 /**
+ * #acknowledgements
+ */
+
+.acknowledgements { margin-top: 30px; }
+
+.acknowledgements-title { margin-bottom: 20px; }
+
+.acknowledgements p {
+  color: var(--light-gray);
+  font-size: var(--fs-6);
+}
+
+.acknowledgements a {
+  color: var(--orange-yellow-crayola);
+  display: inline;
+}
+
+/**
  * #clients 
  */
 
