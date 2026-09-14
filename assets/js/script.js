@@ -109,7 +109,11 @@ for (let i = 0; i < navigationLinks.length; i++) {
     for (let j = 0; j < pages.length; j++) {
       const isTargetPage = pages[j].dataset.page === targetPage;
       pages[j].classList.toggle("active", isTargetPage);
-      navigationLinks[j].classList.toggle("active", isTargetPage);
+    }
+
+    for (let j = 0; j < navigationLinks.length; j++) {
+      const isTargetLink = navigationLinks[j].innerHTML.toLowerCase() === targetPage;
+      navigationLinks[j].classList.toggle("active", isTargetLink);
     }
 
     window.scrollTo(0, 0);
